@@ -6,3 +6,11 @@ This dynamic application features HTML, CSS and Javascript that generates a rand
 
 https://github.com/kierajcullen/passwordgenerator
 
+# GitHub Live Site
+
+https://kierajcullen.github.io/passwordgenerator/
+
+# Webpage
+
+![](screenshot.png)
+
