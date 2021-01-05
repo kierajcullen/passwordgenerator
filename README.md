@@ -12,5 +12,5 @@ https://kierajcullen.github.io/passwordgenerator/
 
 # Webpage
 
-![](screenshot.png)
+![](screenshot.JPG)
 
